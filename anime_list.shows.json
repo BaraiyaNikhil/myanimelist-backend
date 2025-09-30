@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf0"
+  },
+  "title": "Attack on Titan",
+  "synopsis": "After humanity is nearly wiped out by man-eating Titans, survivors live within massive walled cities. Eren Yeager vows to eradicate them after witnessing tragedy.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "totalEpisodes": 75,
+  "poster": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+  "releaseYear": 2013
+},
+{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf1"
+  },
+  "title": "Death Note",
+  "synopsis": "A high school student discovers a mysterious notebook that grants him the power to kill anyone by writing their name, leading to a deadly game of cat and mouse.",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Supernatural"
+  ],
+  "totalEpisodes": 37,
+  "poster": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+  "releaseYear": 2006
+},
+{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf2"
+  },
+  "title": "Naruto",
+  "synopsis": "Naruto Uzumaki, a young ninja with a sealed demon fox spirit, dreams of becoming the strongest ninja and gaining recognition from his peers.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Shounen"
+  ],
+  "totalEpisodes": 220,
+  "poster": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+  "releaseYear": 2002
+},
+{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf3"
+  },
+  "title": "One Piece",
+  "synopsis": "Monkey D. Luffy sets sail with his pirate crew in search of the legendary treasure One Piece to become the Pirate King.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "totalEpisodes": 1000,
+  "poster": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+  "releaseYear": 1999
+},
+{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf4"
+  },
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "synopsis": "Two brothers use alchemy in their quest to restore their bodies after a failed ritual, uncovering dark truths about their world.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "totalEpisodes": 64,
+  "poster": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+  "releaseYear": 2009
+},
+{
+  "_id": {
+    "$oid": "68b8794fe0581e53113cfaf5"
+  },
+  "title": "Demon Slayer: Kimetsu no Yaiba",
+  "synopsis": "After his family is slaughtered by demons, Tanjiro Kamado joins the Demon Slayer Corps to avenge them and cure his sister who was turned into a demon.",
+  "genres": [
+    "Action",
+    "Supernatural",
+    "Historical"
+  ],
+  "totalEpisodes": 44,
+  "poster": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+  "releaseYear": 2019
+}]
